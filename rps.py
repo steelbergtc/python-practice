@@ -1,7 +1,7 @@
 #import random module to generate random computer choice
 import random;
 
-#get user input, convert it to lower case, and validate the choice (must re-enter if not valid)
+#get user input, convert it to lowercase, and validate the choice (must re-enter if not valid)
 player = raw_input("Enter your choice: rock, paper, or scissors? ");
 player = player.lower();
 while (player != "rock" and player != "paper" and player != "scissors"):
