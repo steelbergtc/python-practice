@@ -3,7 +3,7 @@ import random;
 
 #loop the game forever (until the player exits)
 while True:
-    #get user input, convert it to lower case, and validate the choice (must re-enter if not valid)
+    #get user input, convert it to lowercase, and validate the choice (must re-enter if not valid)
     player = raw_input("Enter your choice: rock, paper, or scissors? Or type QUIT to quit. ");
     player = player.lower();
     while (player != "rock" and player != "paper" and player != "scissors" and player != "quit"):
