@@ -16,11 +16,15 @@ PythonLearn recommends TextWrangler as a text editor - but Sublime is another go
 
 ### Python Data Types
 You can work with a variety of data types in Python: they each have their own context and limitations for use. Here are the Python data types, from Dive into Python 3:
+
 Basic Data Types:
+
 1. **Booleans** are either True or False.
 2. **Numbers** can be **integers** (1 and 2), **floats** (1.1 and 1.2), **fractions** (1/2 and 2/3), or even **complex numbers**.
 3. **Strings** are sequences of Unicode characters, e.g. a sentence or an html document.
+
 More Complex Data Types:
+
 4. **Lists** are ordered sequences of values.
 6. **Tuples** are ordered, immutable sequences of values.
 7. **Sets** are unordered bags of values.
