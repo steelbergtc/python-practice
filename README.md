@@ -53,3 +53,4 @@ Once you have written and run the program, think about these questions:
 For free Python basics, check out:
 - the interactive Python courses at Codecademy - https://www.codecademy.com/learn/python
 - the readings and course materials at PythonLearn - https://www.pythonlearn.com/
+- the readings and coding activities at Dive into Python 3: http://www.diveintopython3.net/index.html
