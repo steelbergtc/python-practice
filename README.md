@@ -43,7 +43,7 @@ random is a module that we are importing to use in our program, in order to gene
 
 **print()** prints the contents of the parentheses to the console
 
-**if/elif/else** is a conditional statement, which operate like branches from a tree of options, each with their own consequence depending on which branch is chosen
+**if**, **elif**, and **else** form a conditional statement, which operate like branches from a tree of options, each with their own consequence depending on which branch is chosen
 
 Once you have written and run the program, think about these questions:
 - How might you make this code even better? What kind of improvements or adjustments might you want to make to this game?
