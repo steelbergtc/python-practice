@@ -6,7 +6,7 @@ You need a place to write your Python code, and a place to run it.
 
 To start off, we will write and run our code online from the web using https://trinket.io/python. But this only works in the short term, with quick and easy programs.
 
-When you are ready to write and run things from your computer, follow these instructions: https://www.pythonlearn.com/install.php. There are recommendations and links for downloading a text editor (to write code) and an environment in which to run your Python code.
+When you are ready to write and run things from your computer, follow the instructions at https://www.pythonlearn.com/install.php. There are recommendations and links for downloading a text editor (to write code) and an environment in which to run your Python code.
 PythonLearn recommends TextWrangler as a text editor - but Sublime is another good one, as it color codes your code for you. You can download it here: https://www.sublimetext.com/download
 
 ## Some Terminology
