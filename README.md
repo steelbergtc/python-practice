@@ -10,11 +10,23 @@ When you are ready to write and run things from your computer, follow these inst
 PythonLearn recommends TextWrangler as a text editor - but Sublime is another good one, as it color codes your code for you. You can download it here: https://www.sublimetext.com/download
 
 ## Some Terminology
-- a variable is information given an identifier and stored for reuse by the program (ex: x = 5 -> x is the variable)
-- a conditional statement tells the program perform different actions depending on whether specified conditions evaluate to true or false
-- a comment is a line of code that is not read by the computer - it exists as information for humans reading the code (for example, to explain the purpose of sections of code). In Python, a comment must start with #
+- a **variable** is information given an identifier and stored for reuse by the program (ex: x = 5 -> x is the variable)
+- a **conditional statement** tells the program perform different actions depending on whether specified conditions evaluate to true or false
+- a **comment** is a line of code that is not read by the computer - it exists as information for humans reading the code (for example, to explain the purpose of sections of code). In Python, a comment must start with #
 
-To learn about Python data types, see this helpful page from Boise State University: http://edtech2.boisestate.edu/nathankieffer/502/conceptmap.html
+### Python Data Types
+You can work with a variety of data types in Python: they each have their own context and limitations for use. Here are the Python data types, from Dive into Python 3:
+Basic Data Types:
+1. **Booleans** are either True or False.
+2. **Numbers** can be **integers** (1 and 2), **floats** (1.1 and 1.2), **fractions** (1/2 and 2/3), or even **complex numbers**.
+3. **Strings** are sequences of Unicode characters, e.g. a sentence or an html document.
+More Complex Data Types:
+4. **Lists** are ordered sequences of values.
+6. **Tuples** are ordered, immutable sequences of values.
+7. **Sets** are unordered bags of values.
+8. **Dictionaries** are unordered bags of key-value pairs.
+
+See this helpful page from Dive into Python 3 for more: http://www.diveintopython3.net/native-datatypes.html
 
 ## Rock Paper Scissors Game
 random is a module that we are importing to use in our program, in order to generate random numbers for the computer
